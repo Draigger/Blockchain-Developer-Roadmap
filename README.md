@@ -5,6 +5,8 @@ Blockchain technology is poised to revise how the digital world handles data a
 
 I have created a detailed roadmap to becoming a blockchain developer. I have curated the list of resources from different sources.
 
+<img src="The-Current-State-of-Blockchain-Technology-in-Financial-Industries.jpg" alt="Girl in a jacket" width="300" height="300">
+
 Milestones:-
 
 # 1. Introduction to blockchain - (basic)
