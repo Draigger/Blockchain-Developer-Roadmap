@@ -1,11 +1,11 @@
 https://www.notion.so/Blockchain-Developer-65b33cd732a042aeaed8d55909f1d493
 # Blockchain Developer
+<img src="The-Current-State-of-Blockchain-Technology-in-Financial-Industries.jpg" alt="Blockchain" width="350" height="350">
+
 
 Blockchain technology is poised to revise how the digital world handles data and business.  Created as a platform for supporting Bitcoin, Blockchain is establishing a position of versatility and screen that has made numerous spots of business and government take notice and begin putting it to their use
 
 I have created a detailed roadmap to becoming a blockchain developer. I have curated the list of resources from different sources.
-
-<img src="The-Current-State-of-Blockchain-Technology-in-Financial-Industries.jpg" alt="Girl in a jacket" width="300" height="300">
 
 Milestones:-
 
