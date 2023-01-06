@@ -3,7 +3,7 @@ https://www.notion.so/Blockchain-Developer-65b33cd732a042aeaed8d55909f1d493
 
 Blockchain technology is poised to revise how the digital world handles data and business.  Created as a platform for supporting Bitcoin, Blockchain is establishing a position of versatility and screen that has made numerous spots of business and government take notice and begin putting it to their use
 
-We have created a detailed roadmap to becoming a blockchain developer. We have curated the list of resources from different sources. If you feel anything is missing, feel free to notify us at shantanu@covalenthq.com 
+I have created a detailed roadmap to becoming a blockchain developer. I have curated the list of resources from different sources.
 
 Milestones:-
 
